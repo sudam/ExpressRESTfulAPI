@@ -1,6 +1,7 @@
 # ExpressRESTfulAPI
 
-Building a RESTful API using Express JS
+Building a RESTful API using Express JS.
+Eg: CRUD functions to manipulate Genres table in a Movies database.
 
 ## Resources
 
